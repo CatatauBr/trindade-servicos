@@ -626,11 +626,7 @@
     commonProps["should.hide.marketing.content"] =false;
     commonProps["isWDIO"] =false;
 
-    commonProps["common.security.oauth2.mailChimp.clientId"] = '204589844588';
-    commonProps["common.security.oauth2.constantContact.clientId"] = 'wkw2uq3ty998uvzrnhkeapct';
-    commonProps["common.security.oauth2.instagram.appId"] = '1220315552391330';
-    commonProps["security.facebook.appID"] = '126515034112906';
-    commonProps["common.security.oauth2.instagram.graphAPI.scope"] = 'instagram_basic,pages_show_list';
+
     commonProps["common.security.oauth2.instagram.basicDisplayAPI.scope"] = 'instagram_business_basic';
 
     commonProps["site.settings.page.404.template.id"] = '06d045fdcd584b59a78eb62162a51633~home';
